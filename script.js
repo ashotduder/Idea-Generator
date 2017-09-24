@@ -1,5 +1,5 @@
 			var Column1 = [
-				"an Audrino " ,
+				"an Arduino " ,
 				"a Website ",
 				"a Rasberry Pi ",
 				"an Android app ",
@@ -155,6 +155,7 @@
 				"200,000 viruses",
 				"Trogdor the Burninator",
 				"taking the hobbits to Isengard",
+				"an endless series of adapter dongles",
 			];
 			
 			var ran1 = Column1[Math.floor(Math.random()*Column1.length)];

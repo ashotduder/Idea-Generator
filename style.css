@@ -18,3 +18,18 @@ footer>p {
 	font-size: 14px;
 	font-family: Open Sans, sans-serif;
 }
+
+a {
+	text-decoration: none;
+	color: green;
+}
+
+button {
+	font-family: Inconsolata, sans-serif;
+	font-weight: bold;
+	color: green;
+	box-shadow: 2px 2px 2px black;
+}
+button.onclick {
+	background-color: white;
+}
